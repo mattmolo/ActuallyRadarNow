@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_play"
+        android:icon="@drawable/ic_av_play"
+        android:title="Play"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_pause"
+        android:icon="@drawable/ic_av_pause"
+        android:title="Pause"
+        android:showAsAction="always"/>
+
+    <item android:id="@+id/action_radarpick"
+        android:icon="@drawable/ic_location_map"
+        android:title="Pick Radar"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/action_getlocation"
+        android:icon="@drawable/ic_action_locate"
+        android:title="Get Location"
+        android:showAsAction="always" />
+
+</menu>

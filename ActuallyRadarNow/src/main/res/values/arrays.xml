@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="radarIdents">
+        <item>NATIONAL</item>
+        <item>BMX</item>
+        <item>EOX</item>
+        <item>HTX</item>
+        <item>MXX</item>
+        <item>MOB</item>
+        <item>ABC</item>
+        <item>APD</item>
+        <item>AHG</item>
+        <item>AKC</item>
+        <item>AIH</item>
+        <item>AEC</item>
+        <item>ACG</item>
+        <item>FSX</item>
+        <item>IWA</item>
+        <item>EMX</item>
+        <item>YUX</item>
+        <item>SRX</item>
+        <item>LZK</item>
+        <item>BBX</item>
+        <item>EYX</item>
+        <item>BHX</item>
+        <item>VTX</item>
+        <item>DAX</item>
+        <item>NKX</item>
+        <item>MUX</item>
+        <item>HNX</item>
+        <item>SOX</item>
+        <item>VBX</item>
+        <item>FTG</item>
+        <item>GJX</item>
+        <item>PUX</item>
+        <item>DOX</item>
+        <item>EVX</item>
+        <item>JAX</item>
+        <item>BYX</item>
+        <item>MLB</item>
+        <item>AMX</item>
+        <item>TLH</item>
+        <item>TBW</item>
+        <item>FFC</item>
+        <item>VAX</item>
+        <item>JGX</item>
+        <item>HKI</item>
+        <item>HKM</item>
+        <item>HMO</item>
+        <item>HWA</item>
+        <item>CBX</item>
+        <item>SFX</item>
+        <item>LOT</item>
+        <item>ILX</item>
+        <item>VWX</item>
+        <item>IND</item>
+        <item>IWX</item>
+        <item>DVN</item>
+        <item>DMX</item>
+        <item>DDC</item>
+        <item>GLD</item>
+        <item>TWX</item>
+        <item>ICT</item>
+        <item>HPX</item>
+        <item>JKL</item>
+        <item>LVX</item>
+        <item>PAH</item>
+        <item>POE</item>
+        <item>LCH</item>
+        <item>LIX</item>
+        <item>SHV</item>
+        <item>CBW</item>
+        <item>GYX</item>
+        <item>BOX</item>
+        <item>DTX</item>
+        <item>APX</item>
+        <item>GRR</item>
+        <item>MQT</item>
+        <item>DLH</item>
+        <item>MPX</item>
+        <item>DGX</item>
+        <item>GWX</item>
+        <item>EAX</item>
+        <item>SGF</item>
+        <item>LSX</item>
+        <item>BLX</item>
+        <item>GGW</item>
+        <item>TFX</item>
+        <item>MSX</item>
+        <item>UEX</item>
+        <item>LNX</item>
+        <item>OAX</item>
+        <item>LRX</item>
+        <item>ESX</item>
+        <item>RGX</item>
+        <item>ABX</item>
+        <item>FDX</item>
+        <item>HDX</item>
+        <item>ENX</item>
+        <item>BGM</item>
+        <item>BUF</item>
+        <item>TYX</item>
+        <item>OKX</item>
+        <item>MHX</item>
+        <item>RAX</item>
+        <item>LTX</item>
+        <item>BIS</item>
+        <item>MVX</item>
+        <item>MBX</item>
+        <item>ILN</item>
+        <item>CLE</item>
+        <item>FDR</item>
+        <item>TLX</item>
+        <item>INX</item>
+        <item>VNX</item>
+        <item>MAX</item>
+        <item>PDT</item>
+        <item>RTX</item>
+        <item>DIX</item>
+        <item>PBZ</item>
+        <item>CCX</item>
+        <item>CLX</item>
+        <item>CAE</item>
+        <item>GSP</item>
+        <item>ABR</item>
+        <item>UDX</item>
+        <item>FSD</item>
+        <item>MRX</item>
+        <item>NQA</item>
+        <item>OHX</item>
+        <item>AMA</item>
+        <item>EWX</item>
+        <item>BRO</item>
+        <item>CRP</item>
+        <item>FWS</item>
+        <item>DYX</item>
+        <item>EPZ</item>
+        <item>GRK</item>
+        <item>HGX</item>
+        <item>DFX</item>
+        <item>LBB</item>
+        <item>MAF</item>
+        <item>SJT</item>
+        <item>ICX</item>
+        <item>MTX</item>
+        <item>CXX</item>
+        <item>AKQ</item>
+        <item>FCX</item>
+        <item>LWX</item>
+        <item>LGX</item>
+        <item>ATX</item>
+        <item>OTX</item>
+        <item>RLX</item>
+        <item>GRB</item>
+        <item>ARX</item>
+        <item>MKX</item>
+        <item>CYS</item>
+        <item>RIW</item>
+    </string-array>
+
+    <string-array name="radarNames">
+        <item>Continental US</item>
+        <item>Birmingham, AL</item>
+        <item>Fort Rucker, AL</item>
+        <item>Huntsville, AL</item>
+        <item>Maxwell AFB, AL</item>
+        <item>Mobile, AL</item>
+        <item>Bethel, AK</item>
+        <item>Fairbanks/Pedro Dome, AK</item>
+        <item>Kenai, AK</item>
+        <item>King Salmon, AK</item>
+        <item>Middleton Island, AK</item>
+        <item>Nome, AK</item>
+        <item>Sitka/Biorka Island, AK</item>
+        <item>Flagstaff, AZ</item>
+        <item>Phoenix, AZ</item>
+        <item>Tucson, AZ</item>
+        <item>Yuma, AZ</item>
+        <item>Fort Smith, AR</item>
+        <item>Little Rock, AR</item>
+        <item>Beale AFB, CA</item>
+        <item>Edwards AFB, CA</item>
+        <item>Eureka, CA</item>
+        <item>Los Angeles, CA</item>
+        <item>Sacramento, CA</item>
+        <item>San Diego, CA</item>
+        <item>San Francisco, CA</item>
+        <item>San Joaquin Valley, CA</item>
+        <item>Santa Ana Mountains, CA</item>
+        <item>Vandenberg AFB, CA</item>
+        <item>Denver, CO</item>
+        <item>Grand Junction, CO</item>
+        <item>Pueblo, CO</item>
+        <item>Dover AFB, DE</item>
+        <item>Eglin AFB, FL</item>
+        <item>Jacksonville, FL</item>
+        <item>Key West, FL</item>
+        <item>Melbourne, FL</item>
+        <item>Miami, FL</item>
+        <item>Tallahassee, FL</item>
+        <item>Tampa, FL</item>
+        <item>Atlanta, GA</item>
+        <item>Moody AFB, GA</item>
+        <item>Robins AFB, GA</item>
+        <item>Kauai, HI</item>
+        <item>Kohala, HI</item>
+        <item>Molokai, HI</item>
+        <item>South Shore, HI</item>
+        <item>Boise, ID</item>
+        <item>Pocatello/Idaho Falls, ID</item>
+        <item>Chicago, IL</item>
+        <item>Lincoln, IL</item>
+        <item>Evansville, IN</item>
+        <item>Indianapolis, IN</item>
+        <item>North Webster, IN</item>
+        <item>Davenport, IA</item>
+        <item>Des Moines, IA</item>
+        <item>Dodge City, KS</item>
+        <item>Goodland, KS</item>
+        <item>Topeka, KS</item>
+        <item>Wichita, KS</item>
+        <item>Fort Campbell, KY</item>
+        <item>Jackson, KY</item>
+        <item>Louisville, KY</item>
+        <item>Paducah, KY</item>
+        <item>Fort Polk, LA</item>
+        <item>Lake Charles, LA</item>
+        <item>New Orleans, LA</item>
+        <item>Shreveport, LA</item>
+        <item>Loring AFB, ME</item>
+        <item>Portland, ME</item>
+        <item>Boston, MA</item>
+        <item>Detroit/Pontiac, MI</item>
+        <item>Gaylord, MI</item>
+        <item>Grand Rapids, MI</item>
+        <item>Marquette, MI</item>
+        <item>Duluth, MN</item>
+        <item>Minneapolis/St. Paul, MN</item>
+        <item>Brandon/Jackson, MS</item>
+        <item>Columbus AFB, MS</item>
+        <item>Kansas City, MO</item>
+        <item>Springfield, MO</item>
+        <item>St. Louis, MO</item>
+        <item>Billings, MT</item>
+        <item>Glasgow, MT</item>
+        <item>Great Falls, MT</item>
+        <item>Missoula, MT</item>
+        <item>Grand Island/Hastings, NE</item>
+        <item>North Platte, NE</item>
+        <item>Omaha, NE</item>
+        <item>Elko, NV</item>
+        <item>Las Vegas, NV</item>
+        <item>Reno, NV</item>
+        <item>Albuquerque, NM</item>
+        <item>Cannon AFB, NM</item>
+        <item>Holloman AFB, NM</item>
+        <item>Albany, NY</item>
+        <item>Binghamton, NY</item>
+        <item>Buffalo, NY</item>
+        <item>Montague, NY</item>
+        <item>New York City, NY</item>
+        <item>Morehead City, NC</item>
+        <item>Raleigh/Durham, NC</item>
+        <item>Wilmington, NC</item>
+        <item>Bismarck, ND</item>
+        <item>Grand Forks (Mayville), ND</item>
+        <item>Minot AFB, ND</item>
+        <item>Wilmington, OH</item>
+        <item>Cleveland, OH</item>
+        <item>Frederick, OK</item>
+        <item>Oklahoma City, OK</item>
+        <item>Tulsa, OK</item>
+        <item>Vance AFB, OK</item>
+        <item>Medford, OR</item>
+        <item>Pendleton, OR</item>
+        <item>Portland, OR</item>
+        <item>Philadelphia, PA</item>
+        <item>Pittsburgh, PA</item>
+        <item>State College, PA</item>
+        <item>Charleston, SC</item>
+        <item>Columbia, SC</item>
+        <item>Greer, SC</item>
+        <item>Aberdeen, SD</item>
+        <item>Rapid City, SD</item>
+        <item>Sioux Falls, SD</item>
+        <item>Knoxville/Tri Cities, TN</item>
+        <item>Memphis, TN</item>
+        <item>Nashville, TN</item>
+        <item>Amarillo, TX</item>
+        <item>Austin/San Antonio, TX</item>
+        <item>Brownsville, TX</item>
+        <item>Corpus Christi, TX</item>
+        <item>Dallas/Ft. Worth, TX</item>
+        <item>Dyess AFB, TX</item>
+        <item>El Paso, TX</item>
+        <item>Fort Hood, TX</item>
+        <item>Houston/Galveston, TX</item>
+        <item>Laughlin AFB, TX</item>
+        <item>Lubbock, TX</item>
+        <item>Midland/Odessa, TX</item>
+        <item>San Angelo, TX</item>
+        <item>Cedar City, UT</item>
+        <item>Salt Lake City, UT</item>
+        <item>Burlington, VT</item>
+        <item>Norfolk/Richmond, VA</item>
+        <item>Roanoke, VA</item>
+        <item>Sterling, VA</item>
+        <item>Langley Hill, WA</item>
+        <item>Seattle/Tacoma, WA</item>
+        <item>Spokane, WA</item>
+        <item>Charleston, WV</item>
+        <item>Green Bay, WI</item>
+        <item>La Crosse, WI</item>
+        <item>Milwaukee, WI</item>
+        <item>Cheyenne, WY</item>
+        <item>Riverton, WY</item>
+    </string-array>
+
+    <string-array name="radarLat">
+        <item>33.1722806</item>
+        <item>31.4605622</item>
+        <item>34.9305080</item>
+        <item>32.5366608</item>
+        <item>30.6795378</item>
+        <item>60.7919870</item>
+        <item>65.0351238</item>
+        <item>60.6156335</item>
+        <item>58.6794558</item>
+        <item>59.4619400</item>
+        <item>64.5114973</item>
+        <item>56.8521400</item>
+        <item>34.5744490</item>
+        <item>33.2891110</item>
+        <item>31.8937186</item>
+        <item>32.4953477</item>
+        <item>35.2904423</item>
+        <item>34.8365261</item>
+        <item>39.4956958</item>
+        <item>35.0979358</item>
+        <item>40.4986955</item>
+        <item>34.4116386</item>
+        <item>38.5011529</item>
+        <item>32.9189891</item>
+        <item>37.1551520</item>
+        <item>36.3142088</item>
+        <item>33.8176452</item>
+        <item>34.8383137</item>
+        <item>39.7866156</item>
+        <item>39.0619824</item>
+        <item>38.4595034</item>
+        <item>38.8257651</item>
+        <item>30.5649908</item>
+        <item>30.4846878</item>
+        <item>24.5974996</item>
+        <item>28.1131808</item>
+        <item>25.6111275</item>
+        <item>30.3975680</item>
+        <item>27.7054701</item>
+        <item>33.3635771</item>
+        <item>30.8903853</item>
+        <item>32.6755239</item>
+        <item>21.8938762</item>
+        <item>20.1254606</item>
+        <item>21.1327531</item>
+        <item>19.0950155</item>
+        <item>43.4902104</item>
+        <item>43.1055967</item>
+        <item>41.6044264</item>
+        <item>40.1505440</item>
+        <item>38.2603901</item>
+        <item>39.7074962</item>
+        <item>41.3586356</item>
+        <item>41.6115560</item>
+        <item>41.7311788</item>
+        <item>37.7608043</item>
+        <item>39.3667737</item>
+        <item>38.9969980</item>
+        <item>37.6545724</item>
+        <item>36.7368894</item>
+        <item>37.5907620</item>
+        <item>37.9753058</item>
+        <item>37.0683618</item>
+        <item>31.1556923</item>
+        <item>30.1253820</item>
+        <item>30.3367133</item>
+        <item>32.4508130</item>
+        <item>46.0391944</item>
+        <item>43.8913555</item>
+        <item>41.9558919</item>
+        <item>42.6999677</item>
+        <item>44.9071060</item>
+        <item>42.8938720</item>
+        <item>46.5311443</item>
+        <item>46.8368569</item>
+        <item>44.8488029</item>
+        <item>32.2797358</item>
+        <item>33.8967796</item>
+        <item>38.8102231</item>
+        <item>37.2352230</item>
+        <item>38.6986863</item>
+        <item>45.8537632</item>
+        <item>48.2064536</item>
+        <item>47.4595023</item>
+        <item>47.0412971</item>
+        <item>40.3209660</item>
+        <item>41.9579623</item>
+        <item>41.3202803</item>
+        <item>40.7396933</item>
+        <item>35.7012894</item>
+        <item>39.7541931</item>
+        <item>35.1497579</item>
+        <item>34.6341569</item>
+        <item>33.0768844</item>
+        <item>42.5865699</item>
+        <item>42.1997045</item>
+        <item>42.9488055</item>
+        <item>43.7556319</item>
+        <item>40.8655093</item>
+        <item>34.7759313</item>
+        <item>35.6654967</item>
+        <item>33.9891631</item>
+        <item>46.7709329</item>
+        <item>47.5279417</item>
+        <item>48.3930300</item>
+        <item>39.5083314</item>
+        <item>41.4131875</item>
+        <item>34.3620014</item>
+        <item>35.3333873</item>
+        <item>36.1750977</item>
+        <item>36.7406166</item>
+        <item>42.0810766</item>
+        <item>45.6906118</item>
+        <item>45.7150308</item>
+        <item>39.9470885</item>
+        <item>40.5316842</item>
+        <item>40.9228521</item>
+        <item>32.6554866</item>
+        <item>33.9487579</item>
+        <item>34.8833435</item>
+        <item>45.4558185</item>
+        <item>44.1248485</item>
+        <item>43.5877467</item>
+        <item>36.1685380</item>
+        <item>35.3447802</item>
+        <item>36.2472389</item>
+        <item>35.2334827</item>
+        <item>29.7039802</item>
+        <item>25.9159979</item>
+        <item>27.7840203</item>
+        <item>32.5730186</item>
+        <item>32.5386009</item>
+        <item>31.8731115</item>
+        <item>30.7217637</item>
+        <item>29.4718835</item>
+        <item>29.2730823</item>
+        <item>33.6541242</item>
+        <item>31.9433953</item>
+        <item>31.3712815</item>
+        <item>37.5931771</item>
+        <item>41.2627795</item>
+        <item>44.5109941</item>
+        <item>36.9840475</item>
+        <item>37.0242098</item>
+        <item>38.9753957</item>
+        <item>47.1168060</item>
+        <item>48.1945614</item>
+        <item>47.6803744</item>
+        <item>38.3110763</item>
+        <item>44.4984644</item>
+        <item>43.8227660</item>
+        <item>42.9678286</item>
+        <item>41.1519308</item>
+        <item>43.0660779</item>
+    </string-array>
+
+    <string-array name="radarLong">
+        <item>-86.7698425</item>
+        <item>-85.4592401</item>
+        <item>-86.0837388</item>
+        <item>-85.7897848</item>
+        <item>-88.2397816</item>
+        <item>-161.8765390</item>
+        <item>-147.5014222</item>
+        <item>-151.2832296</item>
+        <item>-156.6293335</item>
+        <item>-146.3011100</item>
+        <item>-165.2949071</item>
+        <item>-135.5524170</item>
+        <item>-111.1983670</item>
+        <item>-111.6700092</item>
+        <item>-110.6304306</item>
+        <item>-114.6567214</item>
+        <item>-94.3619075</item>
+        <item>-92.2621697</item>
+        <item>-121.6316557</item>
+        <item>-117.5608832</item>
+        <item>-124.2918867</item>
+        <item>-119.1795641</item>
+        <item>-121.6778487</item>
+        <item>-117.0418140</item>
+        <item>-121.8984577</item>
+        <item>-119.6320903</item>
+        <item>-117.6359743</item>
+        <item>-120.3977805</item>
+        <item>-104.5458126</item>
+        <item>-108.2137012</item>
+        <item>-104.1816223</item>
+        <item>-75.4400763</item>
+        <item>-85.9215590</item>
+        <item>-81.7018917</item>
+        <item>-81.7032355</item>
+        <item>-80.6540988</item>
+        <item>-80.4127470</item>
+        <item>-84.3289116</item>
+        <item>-82.4017900</item>
+        <item>-84.5658660</item>
+        <item>-83.0019021</item>
+        <item>-83.3508575</item>
+        <item>-159.5524585</item>
+        <item>-155.7780540</item>
+        <item>-157.1802807</item>
+        <item>-155.5688846</item>
+        <item>-116.2360436</item>
+        <item>-112.6860487</item>
+        <item>-88.0843610</item>
+        <item>-89.3368420</item>
+        <item>-87.7246553</item>
+        <item>-86.2803675</item>
+        <item>-85.7000488</item>
+        <item>-90.5809987</item>
+        <item>-93.7229235</item>
+        <item>-99.9688053</item>
+        <item>-101.7004341</item>
+        <item>-96.2326180</item>
+        <item>-97.4431461</item>
+        <item>-87.2854328</item>
+        <item>-83.3130390</item>
+        <item>-85.9438455</item>
+        <item>-88.7720257</item>
+        <item>-92.9762596</item>
+        <item>-93.2161188</item>
+        <item>-89.8256618</item>
+        <item>-93.8412774</item>
+        <item>-67.8066033</item>
+        <item>-70.2565545</item>
+        <item>-71.1369681</item>
+        <item>-83.4718090</item>
+        <item>-84.7198170</item>
+        <item>-85.5449206</item>
+        <item>-87.5487131</item>
+        <item>-92.2097433</item>
+        <item>-93.5654873</item>
+        <item>-89.9846309</item>
+        <item>-88.3293915</item>
+        <item>-94.2644924</item>
+        <item>-93.4006011</item>
+        <item>-90.6828770</item>
+        <item>-108.6068165</item>
+        <item>-106.6252971</item>
+        <item>-111.3855368</item>
+        <item>-113.9864373</item>
+        <item>-98.4418559</item>
+        <item>-100.5759609</item>
+        <item>-96.3667971</item>
+        <item>-116.8025529</item>
+        <item>-114.8918277</item>
+        <item>-119.4620597</item>
+        <item>-106.8239576</item>
+        <item>-103.6186427</item>
+        <item>-106.1200923</item>
+        <item>-74.0639877</item>
+        <item>-75.9847015</item>
+        <item>-78.7369108</item>
+        <item>-75.6799918</item>
+        <item>-72.8638548</item>
+        <item>-76.8762571</item>
+        <item>-78.4897855</item>
+        <item>-78.4291059</item>
+        <item>-100.7605532</item>
+        <item>-97.3256654</item>
+        <item>-100.8644378</item>
+        <item>-83.8176925</item>
+        <item>-81.8597451</item>
+        <item>-98.9766884</item>
+        <item>-97.2778255</item>
+        <item>-95.5642802</item>
+        <item>-98.1279409</item>
+        <item>-122.7173334</item>
+        <item>-118.8529301</item>
+        <item>-122.9650542</item>
+        <item>-74.4108027</item>
+        <item>-80.2179515</item>
+        <item>-78.0038738</item>
+        <item>-81.0423124</item>
+        <item>-81.1184281</item>
+        <item>-82.2200757</item>
+        <item>-98.4132046</item>
+        <item>-102.8298157</item>
+        <item>-96.7293674</item>
+        <item>-83.4017790</item>
+        <item>-89.8734534</item>
+        <item>-86.5625185</item>
+        <item>-101.7092478</item>
+        <item>-98.0285060</item>
+        <item>-97.4189526</item>
+        <item>-97.5112340</item>
+        <item>-97.3031911</item>
+        <item>-99.2542863</item>
+        <item>-106.6979420</item>
+        <item>-97.3829627</item>
+        <item>-95.0788593</item>
+        <item>-100.2802312</item>
+        <item>-101.8141490</item>
+        <item>-102.1894383</item>
+        <item>-100.4925227</item>
+        <item>-112.8637719</item>
+        <item>-112.4480081</item>
+        <item>-73.1664240</item>
+        <item>-77.0073420</item>
+        <item>-80.2736664</item>
+        <item>-77.4778444</item>
+        <item>-124.1062500</item>
+        <item>-122.4957508</item>
+        <item>-117.6267797</item>
+        <item>-81.7229015</item>
+        <item>-88.1111240</item>
+        <item>-91.1915767</item>
+        <item>-88.5506335</item>
+        <item>-104.8060325</item>
+        <item>-108.4773731</item>
+    </string-array>
+
+
+</resources>
